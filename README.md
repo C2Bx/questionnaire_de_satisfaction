@@ -45,7 +45,7 @@ $dbname = "nom_de_la_base_de_donnees";
 
 Assurez-vous que votre serveur est configuré pour exécuter du PHP et qu'il est connecté à la base de données MySQL.
 
-` Déposez tous les fichiers du projet dans le répertoire accessible par le serveur web (ex. `/var/www/html/` pour Apache).
+Déposez tous les fichiers du projet dans le répertoire accessible par le serveur web (ex. `/var/www/html/` pour Apache).
 
 #### 5. Accès au formulaire
 
